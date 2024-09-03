@@ -21,3 +21,9 @@ Los cambios tecnológicos repentinos pueden dejar obsoletos los sistemas existen
 
 Descripción: Ofrece cursos impartidos por profesionales de la industria sobre una amplia gama de temas tecnológicos, incluyendo desarrollo de software, diseño, y gestión de TI.
 Certificaciones: Ofrece certificados de finalización que se pueden agregar directamente al perfil de LinkedIn.
+
+### Digital House
+
+[Digital House Cursos](https://www.digitalhouse.com/mx/productos)
+
+Descripción: Ofrece cursos intensivos y programas de formación en áreas como desarrollo web, análisis de datos, marketing digital, UX/UI design, y más. Su enfoque se centra en brindar formación práctica y actualizada para estudiantes y empleados, de esta forma estar actualizado en las nuevas tecnologías.
